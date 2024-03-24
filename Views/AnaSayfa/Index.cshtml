@@ -1,0 +1,16 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+            <!--Slider-->
+            @*@await Html.PartialAsync("Slider")*@
+            <partial name = "../AnaSayfa/Partials/Slider"/>
+
+            <!--Reklam Pankart içerik-->
+            @*@await Html.PartialAsync("Pankart")*@
+            <partial name="../AnaSayfa/Partials/Pankart" />
+
+            <!--Fikstür ve Canli Maçlar-->
+            @*@await Html.PartialAsync("Fikstur")*@
+            <partial name="../AnaSayfa/Partials/Fikstur" />
+

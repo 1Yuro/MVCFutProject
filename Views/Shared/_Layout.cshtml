@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anasayfa</title>
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/bootstrap/css/bootstrap.min.css")">
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/main.css")">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"><!--face insta twitter fontlari-->
+</head>
+
+<body>
+    <div class="box">
+        <div class="row small">
+            <!-- Dil secenekleri ve Kayit -->
+            <div class="col my-2">
+                <a class="Giris mx-2 rounded text-center text-white" href="../Kullanici/Giris">Giriş Yap</a>
+                <a class="Giris mx-1 rounded text-center text-white" href="../Kullanici/Kayit">Kayit Ol</a>
+                <select class="mx-2">
+                    
+                    <option selected>Türkçe-TL</option>
+                    <option value="1">English-ST</option>
+                    <option value="2">Espanol-EU</option>
+                </select>
+            </div>
+        </div>
+        <div class="container-sm">
+            <div class="row">
+                <!--Menu-->
+                <div class="site col rounded p-3 text-center">
+                    <a class="text-center" href="../AnaSayfa/Index">FUTTEREBET</a>
+                </div>
+                <div class="menu col rounded p-3 mx-1 text-center">
+                    <a class="text-white text-center" href="../AnaSayfa/SkorTablosu">Skor Tablosu</a>
+                </div>
+                <div class="col text-center rounded mx-auto d-block">
+                    <img src="@Url.Content("../wwwroot/Content/images/futop.png")" alt="" srcset="">
+                </div>
+                <div class="menu col rounded p-3 text-center">
+                    <a class="text-white mx-1" href="#">İddia</a>
+                </div>
+                <div class="profile col text-center display-5">
+                    <!--Profil tuşu-->
+                    <a href="../AnaSayfa/Hakkimizda" class="fab fa-pinterest "></a>
+                </div>
+            </div>
+
+            @RenderBody();
+
+            <!--Sosyal-->
+            <section class="section my-3">
+                <ul class="links">
+                    <li><a href="http://www.facebook.com" class="fab fa-facebook"></a></li>
+                    <li><a href="http://www.Twitter.com" class="fab fa-twitter"></a></li>
+                    <li><a href="http://www.instagram.com" class="fab fa-instagram"></a></li>
+                    <li><a href="https://telegram.org/" class="fab fa-telegram"></a></li>
+                </ul>
+            </section>
+            <!--Yardim-->
+            <section class="section my-3">
+                <ul class="faq">
+                    <li><a href="../AnaSayfa/Hakkimizda">Hakkimizda</a></li>
+                    <li><a href="../AnaSayfa/SSS">SSS</a></li>
+                    <li><a href="../AnaSayfa/Iletisim">Iletisim</a></li>
+                </ul>
+            </section>
+
+
+        </div>
+    </div>
+
+    <script src="../wwwroot/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

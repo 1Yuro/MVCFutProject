@@ -1,0 +1,1859 @@
+﻿#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 15.06.2023 23:21:34
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 00:46:06
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:38:20
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:42:19
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:43:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:54:18
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:55:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:55:47
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 01:56:03
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 01:56:06
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 01:56:07
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 01:56:37
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 01:56:39
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:09
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SSS
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:13
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Iletisim
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:16
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Hakkimizda
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:21
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Iletisim
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Iletisim
+Request.QueryString: 
+Tarih: 16.06.2023 02:03:53
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:21:46
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:22:07
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:22:58
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:26:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:28:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:31:17
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 02:46:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 14:51:38
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /favicon.ico
+Request.QueryString: 
+Tarih: 16.06.2023 14:51:39
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 14:53:31
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:03:18
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:03:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:06:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:27:37
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:32:27
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:37:48
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/hata
+Request.QueryString: 
+Tarih: 16.06.2023 15:38:05
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 15:38:56
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Iletisim
+Request.QueryString: 
+Tarih: 16.06.2023 15:40:04
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Pankart
+Request.QueryString: 
+Tarih: 16.06.2023 15:40:22
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 15:40:45
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 15:41:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa
+Request.QueryString: 
+Tarih: 16.06.2023 15:41:31
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 15:42:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:46:13
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: //Views/AnaSayfa/SkorTablosu.cshtml
+Request.QueryString: 
+Tarih: 16.06.2023 15:46:14
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:46:39
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu.cshtml
+Request.QueryString: 
+Tarih: 16.06.2023 15:46:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Anasayfa/SkorTablosu.cshtml
+Request.QueryString: 
+Tarih: 16.06.2023 15:46:48
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:47:04
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 15:47:05
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:50:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 15:50:42
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:10
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:11
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Iletisim
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:50
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SSS
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SSS
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:54
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Hakkimizda
+Request.QueryString: 
+Tarih: 16.06.2023 15:58:58
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 15:59:02
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 15:59:04
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 15:59:08
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: ?
+Tarih: 16.06.2023 15:59:29
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:01:20
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:01:22
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: ?
+Tarih: 16.06.2023 16:01:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:02:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:02:53
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:05:17
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:05:19
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:06:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:06:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit.cshtml
+Request.QueryString: 
+Tarih: 16.06.2023 16:06:43
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:06:49
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:11
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:13
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:14
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:16
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:07:38
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:11:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:11:36
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:11:55
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:12:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:12:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:12:32
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:12:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:12:51
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:13:01
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:13:50
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:08
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:09
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:17
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:31
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:38
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:50
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:14:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:15:01
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:15:10
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:15:34
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:15:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:15:42
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:16:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:16:26
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:16:32
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:23:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:23:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /kullanici/giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:23:31
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:23:32
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 16:23:43
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:26:04
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Hakkimizda
+Request.QueryString: 
+Tarih: 16.06.2023 16:27:08
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 16:27:16
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 16:27:18
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:28:51
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:29:39
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:30:29
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:44:20
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:46:57
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:47:12
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:47:30
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:47:47
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:48:23
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 16:48:41
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 20:47:42
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 20:48:00
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 20:48:25
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 20:48:27
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 20:49:02
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 20:49:03
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:40:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:40:42
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:40:46
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 21:40:49
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:44:27
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:44:30
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:44:33
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:06
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:07
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:08
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:10
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:11
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:13
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:15
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:33
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:45:36
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:27
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:29
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:32
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:34
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:39
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/SSS
+Request.QueryString: 
+Tarih: 16.06.2023 21:48:40
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/SSS
+Request.QueryString: 
+Tarih: 16.06.2023 21:49:15
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:49:52
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:49:53
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/kayit-SSS
+Request.QueryString: 
+Tarih: 16.06.2023 21:49:56
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:17
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:19
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Hakkimizda
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:22
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:24
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:33
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:33
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/Index
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:34
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:35
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Giris
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:36
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /Kullanici/Kayit
+Request.QueryString: 
+Tarih: 16.06.2023 21:50:42
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request.Scheme: http
+Request.Host: localhost:5037
+Request.Path: /AnaSayfa/SkorTablosu
+Request.QueryString: 
+Tarih: 16.06.2023 21:51:01
+#### Request (BITIS) ####
+
+

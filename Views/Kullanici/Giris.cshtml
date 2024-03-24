@@ -1,0 +1,70 @@
+﻿@model Hafta10.Web.Models.ViewModels.KayitModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giris</title>
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/bootstrap/css/bootstrap.min.css")">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/login.css")">
+</head>
+
+<body>
+
+    <div class="container rounded p-4 h-100">
+        <div class="logo">
+            <a href="../AnaSayfa/Index"><img src="@Url.Content("../wwwroot/Content/images/futop.png")" alt="Logo" ;></a>
+        </div>
+            <fieldset class="field rounded my-2 p-4">
+
+                <legend class="text-center my-3 text-danger ">Futterebet</legend>
+                <form asp-action="Giris" asp-controller="Kullanici" method="post">
+                <div class="input-box position-relative">
+                        <input type="email" asp-for="KullaniciEmail" class="my-3 w-100 h-100" placeholder="Email giriniz..." required><span asp-validation-for="KullaniciEmail"></span>
+                    <div class="underline"></div>
+                </div>
+
+                <div class="input-box position-relative">
+                        <input type="password" asp-for="KullaniciSifre" class="my-3 w-100 h-100" placeholder="Sifrenizi giriniz..." required><span asp-validation-for="KullaniciSifre"></span>
+                    <div class="underline"></div>                                     
+                </div>
+                <div class="sifreunut my-3 small text-primary"><a href="../Kullanici/Kayit">Sifremi unuttum?</a></div>
+                <div class="input-box position-relative">
+                    <input class="w-100 h-100 rounded p-3" type="submit" value="Giris Yap">
+                </div>
+                </form>
+
+
+
+
+
+                <div class="text-center my-4 small">veya Sosyal Medya ile Bağlanın</div>
+
+                <div class="telegram bg-dark rounded p-3 my-3 text-center">
+                <a href="http://www.instagram.com"><i class="fab fa-instagram"></i> Instagram ile Giriş</a>
+                </div>
+
+                <div class="twitter bg-primary rounded p-3 my-3 text-center">
+                <a href="http://www.Twitter.com"><i class="fab fa-twitter"></i> Twitter ile Giriş</a>
+                </div>
+
+                <div class="facebook bg-secondary rounded p-3 my-1 text-center">
+                <a href="http://www.facebook.com"><i class="fab fa-facebook"></i> Facebook ile Giriş</a>
+                </div>
+
+                <div class="ssao text-center">
+                <a href="../Kullanici/kayit-SSS">Sıkça Sorulan Sorular</a>
+                </div>
+            </fieldset>
+    </div>
+
+
+    <script src="@Url.Content("../wwwroot/bootstrap/js/bootstrap.bundle.min.js")"></script>
+
+</body>
+
+</html>

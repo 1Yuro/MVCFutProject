@@ -1,0 +1,90 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Hafta10.Web.Models.ViewModels.KayitModel
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayit</title>
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/bootstrap/css/bootstrap.min.css")">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="@Url.Content("../wwwroot/login.css")">
+    <script src="@Url.Content("../wwwroot/lib/jquery/jquery.min.js")"></script>
+    <script src="@Url.Content(" ../wwwroot/lib/jquery-validate/jquery.validate.min.js")"></script>
+    <script src="@Url.Content("../wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js")"></script>
+
+</head>
+
+<body>
+
+    <div class="container rounded p-4 h-150">
+        <div class="logo">
+            <a href="../AnaSayfa/Index"><img src="@Url.Content("../wwwroot/Content/images/futop.png")" alt="Logo" ;></a>
+        </div>
+            <fieldset class="field rounded my-2 p-4">
+
+                <legend class="text-center my-3 text-danger ">Futterebet</legend>
+
+            <form asp-action="Kayit" asp-controller="Kullanici" method="post">
+                    <div class="input-box position-relative my-2 p-2">
+                    <input type="text" asp-for="KullaniciAdi" placeholder="Kullanici Adi" /><br /> <span asp-validation-for="KullaniciAdi"></span><br />
+                        <div class="underline"></div>
+                    </div>
+                
+                    <div class="input-box position-relative my-2 p-2">
+                    <input type="text" asp-for="KullaniciSoyadi" placeholder="Kullanici Soyadi" /><br /> <span asp-validation-for="KullaniciSoyadi"></span><br />
+                        <div class="underline"></div>
+                    </div>
+
+                    <div class="input-box position-relative my-2 p-2">
+                    <input type="email" asp-for="KullaniciEmail" placeholder="Kullanici Email" /><br /> <span asp-validation-for="KullaniciEmail"></span><br />
+                        <div class="underline"></div>
+                    </div>
+
+                    <div class="input-box position-relative my-2 p-2">
+                    <input type="text" asp-for="KullaniciYas" placeholder="Kullanici Yasi" /><br /> <span asp-validation-for="KullaniciYas"></span><br />
+                        <div class="underline"></div>
+                    </div>
+
+                    <div class="input-box position-relative my-2 p-2">
+                    <input type="password" asp-for="KullaniciSifre" placeholder="Kullanici Sifre" /><br /> <span asp-validation-for="KullaniciSifre" ></span><br />
+                    <div class="underline"></div>
+                    </div>
+     
+                    <div class="input-box position-relative">
+                    <input class="w-100 h-100 rounded p-3" type="submit" value="Kayit Ol">
+                    </div>
+                </form>
+
+                <div class="text-center my-4 small">veya Sosyal Medya ile Bağlanın</div>
+
+                <div class="telegram bg-dark rounded p-3 my-3 text-center">
+                <a href="http://www.instagram.com"><i class="fab fa-instagram"></i> Instagram ile Giriş</a>
+                </div>
+
+                <div class="twitter bg-primary rounded p-3 my-3 text-center">
+                <a href="http://www.Twitter.com"><i class="fab fa-twitter"></i> Twitter ile Giriş</a>
+                </div>
+
+                <div class="facebook bg-secondary rounded p-3 my-1 text-center">
+                <a href="http://www.facebook.com"><i class="fab fa-facebook"></i> Facebook ile Giriş</a>
+                </div>
+
+                <div class="ssao text-center">
+                    <a href="../Kullanici/kayit-SSS">Sıkça Sorulan Sorular</a>
+                </div>
+            </fieldset>
+
+        
+    </div>
+
+
+    <script src="@Url.Content("../wwwroot/bootstrap/js/bootstrap.bundle.min.js")"></script>
+
+</body>
+
+</html>

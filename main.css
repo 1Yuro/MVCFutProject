@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.box{
+    max-width:670px;
+    padding:20px;
+    margin:auto;
+}
+.col .Giris{
+    text-decoration: none;
+}
+.col .Giris:hover{
+    text-decoration: underline;
+}
+.container-sm .menu{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.container-sm .site{
+    background-color: rgb(255, 0, 0);
+}
+.container-sm .site a{
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+}
+.container-sm .site:hover{
+    background-color: green;
+    cursor: pointer;
+}
+.container-sm .menu:hover{
+    background-color: rgba(255, 255, 255, 0.25);
+    cursor:pointer;
+}
+.container-sm a{
+    text-decoration: none;
+}
+.container-sm .col img{
+    height: 50px;
+    width: 50px;
+    cursor:pointer;
+}
+.container-sm .col img:hover{
+    transform:scale(1.4) ;
+}
+.text{
+    background-color: rgba(0, 0, 0, 0.7);
+    cursor:pointer;
+}
+.text:hover{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.fiks{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.fiks:hover{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.fiks h3{
+    cursor:pointer;
+}
+.canli{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.canli:hover{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.canli h3{
+    cursor:pointer;
+}
+.canli ul li a:hover{
+    color:blue;
+}
+.ust ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+.ust ul a{
+    color: white;
+
+}
+.links li{
+    display:inline-block;
+    list-style:none;
+    margin:8%;
+}
+.links li a{
+    font-size:30px;
+    color: rgb(112, 226, 255);
+}
+.links li a:hover{
+    transform: scale(1.4);
+}
+.profile a{
+    color:aqua;
+    text-align: center;
+}
+.profile a:hover{
+    transform: scale(1.2);
+    text-align: center;
+}
+.faq li{
+    display:inline-block;
+    list-style:none;
+    margin-left: 15%;
+}
+.faq li a{
+    color: black;
+}
+.faq li a:hover{
+    text-decoration: underline;
+}
+body {
+    background-image: url("../wwwroot/Content/images/fs.jpg");
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

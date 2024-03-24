@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Hafta10.Web.Models.ViewModels.SkorModel>
+@{
+    Layout = "_Layout";
+}
+<section class="section my-3">
+    <div class="row">
+
+        <div class="text col p-4 my-5 text-center text-white rounded">
+            <h3>Lig Tablosu Puan Durumu</h3>
+            <table table table-bordered table-striped>
+
+                <thead>
+                    <tr>
+                        <th>Sıralama</th>
+                        <th>Takım Adı</th>
+                        <th>Puan</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        @foreach (var skor in Model)
+                        {
+                            <tr>
+                                <td>@skor.ID</td>
+                                <td>@skor.TakimAdi</td>
+                                <td>@skor.TakimSkoru</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</section>
